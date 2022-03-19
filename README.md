@@ -5,3 +5,5 @@ A mini note grpc server (with nodejs)
 npm i
 npm start
 your request (example: node getNotes.js)
+
+
